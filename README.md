@@ -26,7 +26,6 @@ This project analyzes YouTube video data and provides insights using Python, Pan
 
 ![Dashboard](home.png)
 ![selected category graph](SelectedCategory.png)
-![Distribution Graph](DistributionGraph)
 ![Analysis](analysis.png)
 
 ## Files
